@@ -24,7 +24,7 @@
 Python 3.13, requests, tqdm, logging.
 
 ## Структура проекта
-
+```
 oop_backup/
 ├── cat_api.py
 ├── yandex_disk.py
@@ -36,6 +36,7 @@ oop_backup/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+```
 
 ## Примеры работы
 
