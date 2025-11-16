@@ -1,0 +1,9 @@
+*.log
+*.tmp
+*.pyc
+__pycache__/
+token.txt
+.env
+settings.ini
+.venv
+create_cat_image.py
