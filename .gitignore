@@ -7,3 +7,5 @@ token.txt
 settings.ini
 .venv
 create_cat_image.py
+metadata_*.json
+cookie.py
